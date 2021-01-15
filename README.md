@@ -12,7 +12,7 @@ Run on terminal: "javac \*.java && java Gradius" in the game directory
 <br>
 
 <h1> How To Play: </h1>
-Move the spaceship around to avoid incoming meteorites by using **ARROWKEYS** or **W/A/S/D** <br>
-Speed up the spaceship by holding **SHIFT** <br>
+Move the spaceship around to avoid incoming meteorites by using <b>ARROWKEYS</b> or <b>W/A/S/D</b> <br>
+Speed up the spaceship by holding <b>SHIFT</b> <br>
 Lastly, Enjoy!
 
