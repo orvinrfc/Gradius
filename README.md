@@ -1,7 +1,7 @@
 # gradius
 Arcade Game
 
-This arcade game is inspired by <a href="https://en.wikipedia.org/wiki/Gradius"> Gradius </a>, made as a part of CPSC1181 Assignment. 
+This arcade game is inspired by <a href="https://en.wikipedia.org/wiki/Gradius"> Gradius </a>, made with Java as a part of CPSC1181 Assignment. 
 
 
 <h1> How To Run: </h1>
